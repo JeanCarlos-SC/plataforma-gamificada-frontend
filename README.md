@@ -1,4 +1,4 @@
-# PlataformaGamificada
+# Plataforma Gamificada
 
 ![Banner](https://user-images.githubusercontent.com/69947504/141135355-13a535b0-17be-45e3-828d-c790b150fb21.jpg)
 
@@ -22,15 +22,15 @@ A plataforma é direcionada a estudantes e profissionais que buscam uma abordage
 
 ### React
 
-Utilizamos o React, uma biblioteca JavaScript para construção de interfaces de usuário, para desenvolver a frente da plataforma. O React possibilita a criação de uma experiência de usuário rica e responsiva, facilitando a interação com a plataforma.
+[React](https://react.dev/), uma biblioteca JavaScript para construção de interfaces de usuário, para desenvolver a frente da plataforma. O React possibilita a criação de uma experiência de usuário rica e responsiva, facilitando a interação com a plataforma.
 
-### TypeScript
+### Vite
 
-O TypeScript, um superset do JavaScript, é empregado para adicionar tipagem estática ao código. Isso eleva a qualidade e a manutenibilidade do código, facilitando a detecção de erros e a colaboração em equipe.
+[Vite](https://vitejs.dev/) é um construtor de aplicações web extremamente rápido para projetos frontend em JavaScript e TypeScript. Ele oferece um ambiente de desenvolvimento instantâneo, proporcionando tempos de construção incrivelmente rápidos e uma experiência de desenvolvimento altamente eficiente. Com suporte nativo para módulos ES, Vite permite importar dependências diretamente da web, otimizando o desempenho da aplicação.
 
-### Node.js
+### Material UI
 
-Node.js é utilizado para o backend, oferecendo um ambiente de execução eficiente e escalável para o servidor da plataforma.
+[Material UI](https://mui.com/) é uma biblioteca de componentes React que implementa o design do Material Design, o guia de design da Google. Essa biblioteca oferece uma variedade de componentes reutilizáveis prontos para uso, seguindo os princípios de design da Material Design. A estilização é fácil de personalizar e se integra perfeitamente a projetos React, proporcionando uma aparência moderna e consistente.
 
 # Técnicas de Gamificação
 
@@ -53,17 +53,13 @@ Implementamos um sistema de progressão, onde os usuários avançam em níveis �
 
 A Plataforma Gamificada de Aprendizagem representa uma abordagem inovadora à educação, combinando a eficácia do ensino com a empolgação dos jogos. Por meio das tecnologias React, TypeScript e Node.js, junto com técnicas de gamificação cuidadosamente projetadas, buscamos transformar a maneira como o conhecimento é adquirido e retido. Estamos comprometidos em evoluir continuamente o projeto para oferecer uma experiência educacional cada vez mais enriquecedora.
 
-<h4 align="center"> 
-	🚧   🚀  Em construção...  🚧
-</h4>
-
-### Integração com Banco de Dados (Ainda em Desenvolvimento)
-
-Atualmente, estamos em processo de integração com um banco de dados para armazenar e recuperar dados de forma persistente. Essa adição proporcionará uma base sólida para recursos futuros e aprimorará a experiência do usuário.
-
 ### Funcionalidades:
 
 - Cadastro de pessoa
 - Consulta de pessoa
 - Atualiza registros
 - Apaga registros
+
+<h4 align="center"> 
+	🚧   🚀  Em construção...  🚧
+</h4>
