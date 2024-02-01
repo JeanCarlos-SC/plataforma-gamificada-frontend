@@ -24,13 +24,13 @@ A plataforma é direcionada a estudantes e profissionais que buscam uma abordage
 
 Utilizamos o React, uma biblioteca JavaScript para construção de interfaces de usuário, para desenvolver a frente da plataforma. O React possibilita a criação de uma experiência de usuário rica e responsiva, facilitando a interação com a plataforma.
 
-### TypeScript
+### Vite
 
-O TypeScript, um superset do JavaScript, é empregado para adicionar tipagem estática ao código. Isso eleva a qualidade e a manutenibilidade do código, facilitando a detecção de erros e a colaboração em equipe.
+Vite é um construtor de aplicações web extremamente rápido para projetos frontend em JavaScript e TypeScript. Ele oferece um ambiente de desenvolvimento instantâneo, proporcionando tempos de construção incrivelmente rápidos e uma experiência de desenvolvimento altamente eficiente. Com suporte nativo para módulos ES, Vite permite importar dependências diretamente da web, otimizando o desempenho da aplicação.
 
-### Node.js
+### Material UI
 
-Node.js é utilizado para o backend, oferecendo um ambiente de execução eficiente e escalável para o servidor da plataforma.
+Material UI é uma biblioteca de componentes React que implementa o design do Material Design, o guia de design da Google. Essa biblioteca oferece uma variedade de componentes reutilizáveis prontos para uso, seguindo os princípios de design da Material Design. A estilização é fácil de personalizar e se integra perfeitamente a projetos React, proporcionando uma aparência moderna e consistente.
 
 # Técnicas de Gamificação
 
