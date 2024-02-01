@@ -53,13 +53,13 @@ Implementamos um sistema de progressão, onde os usuários avançam em níveis �
 
 A Plataforma Gamificada de Aprendizagem representa uma abordagem inovadora à educação, combinando a eficácia do ensino com a empolgação dos jogos. Por meio das tecnologias React, TypeScript e Node.js, junto com técnicas de gamificação cuidadosamente projetadas, buscamos transformar a maneira como o conhecimento é adquirido e retido. Estamos comprometidos em evoluir continuamente o projeto para oferecer uma experiência educacional cada vez mais enriquecedora.
 
-<h4 align="center"> 
-	🚧   🚀  Em construção...  🚧
-</h4>
-
 ### Funcionalidades:
 
 - Cadastro de pessoa
 - Consulta de pessoa
 - Atualiza registros
 - Apaga registros
+
+<h4 align="center"> 
+	🚧   🚀  Em construção...  🚧
+</h4>
